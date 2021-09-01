@@ -1,0 +1,32 @@
+body{
+    display: flex;
+}
+
+.table1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.name {
+    font-size: 18px;
+    font-family: cursive;
+    color: rgb(255, 153, 0);
+
+}
+
+span {
+ color: rgb(13, 180, 185);
+ font-size: 20px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.username{
+    font-size: 18px;
+    font-family: cursive;
+    color: rgb(255, 153, 0);
+}
+.phone{
+    font-size: 18px;
+    font-family: cursive;
+    color:rgb(255, 153, 0);
+}
